@@ -1,0 +1,24 @@
+{
+  "name": "@dasfl/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/DASFL/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/DASFL/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DASFL/ajs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "files": [
+  "src"
+  ],
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
